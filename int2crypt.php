@@ -7,7 +7,6 @@
 
 class int2crypt
 {
-
     /* Key: Next prime greater than 36 ^ n / 1.618033988749894848 */
     /* Value: modular multiplicative inverse */
     private static $golden_primes = array(
