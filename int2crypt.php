@@ -5,7 +5,7 @@
  * Time: 9:12 PM
  */
 
-class PseudoCrypt
+class int2crypt
 {
 
     /* Key: Next prime greater than 36 ^ n / 1.618033988749894848 */
